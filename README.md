@@ -1,2 +1,3 @@
 # Learning-github-with-jadi
 writing a silly book to learning git
+We are going to use this file during this course...
